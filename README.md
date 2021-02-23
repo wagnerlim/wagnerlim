@@ -38,8 +38,7 @@
          </a> 
     </li>
     <li>
-        <a href="https://www.linkedin.com/in/wagnerolima/" target="_blank"><img 				src="https://img.shields.io/static/v1?													label=Linkedin&message=Wagner Lima
-        &color=0A66C2&style=social&logo=Linkedin"/>
+        <a href="https://www.linkedin.com/in/wagnerolima/" target="_blank"><img src="https://img.shields.io/static/v1?label=Linkedin&message=Wagner Lima!&color=25d366&style=social&logo=Linkedin"/>			
         </a> 
     </li>
     <li>
