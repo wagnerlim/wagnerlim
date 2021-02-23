@@ -43,7 +43,7 @@
         </a> 
     </li>
     <li>
-        <a href="tel:11979675773"><img src="https://img.shields.io/static/v1?label=WhatsApp&message=Entre em contato!&color=25d366&style=social&logo=WhatsApp&logocolor"/>			
+        <a href="tel:11979675773"><img src="https://img.shields.io/static/v1?label=WhatsApp&message=Entre em contato!&color=25d366&style=social&logo=WhatsApp"/>			
         </a> 
     </li>    
 </ul>    
