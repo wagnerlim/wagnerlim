@@ -33,12 +33,12 @@
     Entre em contato!
 </h3>
 <ul>
-     <li> <a href="mailto:wagnerlima0910@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=gmail&message=wagnerlima0910@gmail.
+     <li> <a href="mailto:wagnerlima0910@gmail.com" target="_blank"><img 							src="https://img.shields.io/static/v1?													label=gmail&message=wagnerlima0910@gmail.
          	com&color=7159c1&style=social&logo=GMAIL"/>
          </a> 
     </li>
     <li>
-        <a href="https://www.linkedin.com/in/wagnerolima/" target="_blank"><img src="https://img.shields.io/static/v1?label=Linkedin&message=Wagner Lima
+        <a href="https://www.linkedin.com/in/wagnerolima/" target="_blank"><img 				src="https://img.shields.io/static/v1?													label=Linkedin&message=Wagner Lima
         &color=0A66C2&style=social&logo=Linkedin"/>
         </a> 
     </li>
