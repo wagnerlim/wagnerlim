@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/static/v1?label=JavaScript&message=programming language&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
     </li>
     <li>
-         <img src="https://img.shields.io/static/v1?label=Java&message=programming language&color=007396&style=for-the-badge&logo=Java"/>
+         <img src="https://img.shields.io/static/v1?label=React&message=library&color=61DAFB&style=for-the-badge&logo=React"/>
     </li>
     <li>
     	<img src="https://img.shields.io/static/v1?label=React&message=library&color=61DAFB&style=for-the-badge&logo=React"/>
