@@ -11,20 +11,16 @@
     Tecnologias que conheço:
 </h2>
 
-<ul>
-    <li>
         <img src="https://img.shields.io/static/v1?label=HTML5&message=markup language&color=E34F26&style=for-the-badge&logo=HTML5"/>
-    </li>
-    <li>
+  
         <img src="https://img.shields.io/static/v1?label=CSS3&message=markup language&color=1572B6&style=for-the-badge&logo=CSS3"/>
-    </li>
-    <li>
+    
+
         <img src="https://img.shields.io/static/v1?label=JavaScript&message=programming language&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
-    </li>
-    <li>
+  
+   
     	<img src="https://img.shields.io/static/v1?label=React&message=library&color=61DAFB&style=for-the-badge&logo=React"/>
-    </li>
-</ul>
+    
 
 <h3>
     Entre em contato!
